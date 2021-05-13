@@ -12,4 +12,4 @@
     - JavaScript
     - HTML
 - 💡 Actualmente estoy aprendiendo el lenguaje de programacion python
-- 🌐 Contacto: jose.calderon16@tectijuana.edu.mx
+
